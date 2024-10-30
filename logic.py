@@ -5,13 +5,13 @@ class game_logic():
 
     def level_checker (self, level):
         if self.level == 'easy':
-            print("You have 13 Guesses\n")
+            print("\nYou have 13 Guesses\n")
             return 13
         elif self.level == 'intermediate':
-            print("You have 10 Guesses\n")
+            print("\nYou have 10 Guesses\n")
             return 10
         elif self.level == 'hard':
-            print("You have 7 Guesses\n")
+            print("\nYou have 7 Guesses\n")
             return 7
 
     def number_checker (self, guess):

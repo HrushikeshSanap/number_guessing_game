@@ -46,12 +46,13 @@ This is a simple Number Guessing Game built in Python, where players try to gues
 ```plaintext
 Hi. Welcome to Number Guessing Game. 
 The number is between 1 to 50. 
-You will get 7 guesses to identify the secret number. 
 So Let's begin...
 
 Choose your level: 
 Easy	|	Intermediate	|	Hard
 Intermediate
+
+You have 10 Guesses
 
 Your Guess no 1 is 25
 Your guess was too low
